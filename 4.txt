@@ -1,0 +1,2 @@
+my 2nd feature2 file
+hello hello git
